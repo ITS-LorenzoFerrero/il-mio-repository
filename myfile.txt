@@ -1,3 +1,3 @@
 Questo file è stato creato sul branch main.
 
-Le modifiche sono state effettuate sul brench dev
+Ecco il mio primo conflitto
